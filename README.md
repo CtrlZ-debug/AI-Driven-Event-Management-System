@@ -1,1 +1,1 @@
-# AI-Driven-Event-Management-System
+# AI-Driven Event Management System
